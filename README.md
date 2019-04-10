@@ -24,3 +24,5 @@ Current state:
   * users
 
 * support for local caching
+
+Documentation: https://sigma.github.io/gh.el/
